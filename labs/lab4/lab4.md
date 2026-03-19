@@ -13,3 +13,4 @@
 
 ## Question 3
 ![img](q3.1.png)
+[script](./challenge_lab4.sh)
