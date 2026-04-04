@@ -1,5 +1,5 @@
 ## Week Report 7
 
 ## Links
-* [Lab6](../../labs/lab7/lab7.md)
-* [Notes6](../../notes/notes7/notes7.md)
+* [Lab7](../../labs/lab7/lab7.md)
+* [Notes7](../../notes/notes7/notes7.md)
